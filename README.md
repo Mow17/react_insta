@@ -1,3 +1,17 @@
+# react_insta
+
+1. モジュールをインストールするコマンド
+```
+npm init
+```
+
+2. ローカルサーバーが立ちます
+```
+npm start
+```
+
+### これ以下はデフォルトのREADME
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
